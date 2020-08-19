@@ -2,12 +2,12 @@
 
 Basic python-flask weather app
 
-##Requirements
+## Requirements
 
 - python
 - flask
 
-###Instructions
+### Instructions
 
 To run the App :
 -cd into the directory [flask_weather_app]
